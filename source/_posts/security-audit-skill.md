@@ -1,19 +1,16 @@
-# Cloudflare开源AI安全审计技能，44K星成代码审计新范式
+---
+title: "Cloudflare开源AI安全审计技能，44K星成代码审计新范式"
+date: 2026-10-27 07:34:37
+tags: [GitHub, 技术分享]
+---
 
-![illustration](assets/illustration_01.png)
 
-
-
-![illustration](assets/illustration_02.png)
 
 ## 什么是 security-audit-skill
 
 这个仓库的名字乍一看有点绕，但它做的事情其实很直接：**让 AI Agent 变成一个专业的安全审计员**。它由 Cloudflare 开源，核心是一个编码 Agent 技能，通过六个结构化阶段完成代码安全审计，最终产出可独立验证的机器可读安全发现报告。
 
 目前这个仓库已经收获了 **44422 个 Star**，热度之高说明开发者对"AI辅助安全审计"这个方向有着强烈的需求。
-
-
-![illustration](assets/illustration_03.png)
 
 ## 为什么值得关注
 

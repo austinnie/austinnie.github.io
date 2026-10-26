@@ -1,19 +1,16 @@
-# 终端里的Gemini：开源AI编程助手如何改变你的开发工作流
+---
+title: "终端里的Gemini：开源AI编程助手如何改变你的开发工作流"
+date: 2026-10-27 07:34:37
+tags: [GitHub, 技术分享]
+---
 
-![illustration](assets/illustration_01.png)
 
-
-
-![illustration](assets/illustration_02.png)
 
 ## 当AI Agent走进你的命令行
 
 想象一下：你打开终端，直接用自然语言让AI帮你读代码、改bug、生成应用，甚至处理复杂的Git操作。这不是科幻场景，而是Gemini CLI正在做的事。
 
 这个由Google官方开源的终端AI代理工具，在GitHub上已经收获了超过10万星。它的设计哲学很简单——给你最直接的提示词到模型的路径，让Gemini的强大能力触手可及。
-
-
-![illustration](assets/illustration_03.png)
 
 ## 核心能力：不只是聊天
 

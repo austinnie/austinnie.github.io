@@ -1,14 +1,12 @@
-# 这个开源 AI Agent 火了：想到，就能做到
+---
+title: "这个开源 AI Agent 火了：想到，就能做到"
+date: 2026-10-27 07:34:37
+tags: [GitHub, 技术分享]
+---
 
-![illustration](assets/illustration_01.png)
 
-
-![]()
 
 在 AI 应用层出不穷的今天，大多数工具都停留在"聊聊天"的层面。但有一个项目正在打破这种现状——它就是 **Cindy**，一个真正能帮你干活的开源 AI Agent。目前已在 GitHub 上收获了 6273+ Stars，成为近期最受关注的 AI 开源项目之一。
-
-
-![illustration](assets/illustration_02.png)
 
 ## 它到底是什么？
 
@@ -17,9 +15,6 @@ Cindy 的定位很明确：**"想到，就能做到"**。
 它是一个运行在你本地机器上的 AI 智能体，能够直接操作你的真实文件、已登录的应用，甚至驱动你的浏览器和手机。这意味着它不是悬浮在云端的一个聊天框，而是真正嵌入到你工作流中的智能助手。
 
 技术上，Cindy 采用 TypeScript 开发，是一个 **pnpm monorepo** 项目，包含桌面客户端（Electron）、移动客户端（React Native / Expo），以及一套完整的共享能力包。
-
-
-![illustration](assets/illustration_03.png)
 
 ## 核心亮点
 

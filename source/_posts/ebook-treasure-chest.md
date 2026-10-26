@@ -1,17 +1,14 @@
-# 个人阅读者/学生（单人使用） 是怎么用 jbiaojerry/ebook-treasure-chest 解决 使用 GitHub Pages 实时搜索页面查找并下载所需电子书 的
+---
+title: "个人阅读者/学生（单人使用） 是怎么用 jbiaojerry/ebook-treasure-chest 解决 使用 GitHub Pages 实时搜索页面查找并下载所需电子书 的"
+date: 2026-10-27 07:34:37
+tags: [GitHub, 技术分享]
+---
 
-![illustration](assets/illustration_01.png)
 
-
-
-![illustration](assets/illustration_02.png)
 
 ## 痛点：一个具体的麻烦
 
 上个月我想找一本《置身事内》，在帆书APP里搜了，提示需要开通VIP才能听书；去微信读书搜，显示书已下架，要买断；打开京东读书，这本书要29.9元。我又试了喜马拉雅，同样需要会员。整整半天，我在这几个平台之间来回切换，就是找不到一本免费的电子书下载链接。最后我放弃了这本书——不是不想读，是找书的时间比读书的时间还长。
-
-
-![illustration](assets/illustration_03.png)
 
 ## 之前我们是怎么做的
 
