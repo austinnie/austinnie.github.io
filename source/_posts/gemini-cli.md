@@ -1,0 +1,44 @@
+# 终端里的Gemini：开源AI编程助手如何改变你的开发工作流
+
+![illustration](assets/illustration_01.png)
+
+
+
+![illustration](assets/illustration_02.png)
+
+## 当AI Agent走进你的命令行
+
+想象一下：你打开终端，直接用自然语言让AI帮你读代码、改bug、生成应用，甚至处理复杂的Git操作。这不是科幻场景，而是Gemini CLI正在做的事。
+
+这个由Google官方开源的终端AI代理工具，在GitHub上已经收获了超过10万星。它的设计哲学很简单——给你最直接的提示词到模型的路径，让Gemini的强大能力触手可及。
+
+
+![illustration](assets/illustration_03.png)
+
+## 核心能力：不只是聊天
+
+Gemini CLI与普通的AI聊天工具有本质区别。它是一个真正能在你的终端里执行操作的AI Agent。
+
+在代码理解方面，它可以查询和编辑大型代码库，用自然语言描述问题，AI就能帮你定位并修复。更有趣的是它的多模态能力——你可以上传PDF、图片甚至手绘草图，让Gemini生成对应的应用代码。这对于原型设计和快速验证想法非常实用。
+
+在自动化领域，Gemini CLI能处理复杂的工作流，比如查询GitHub PR、执行复杂的Rebase操作等。配合MCP（Model Context Protocol）服务器，还能连接Imagen、Veo、Lyria等Google的媒体生成工具，扩展能力边界。
+
+## 安装与使用门槛极低
+
+作为开发者，你对安装复杂度的容忍度很低。Gemini CLI深谙此道。
+
+最简单的方式是用npx直接运行，无需任何安装：`npx @google/gemini-cli`。如果你想长期使用，可以通过npm全局安装，或者用Homebrew在macOS/Linux上安装。对于企业环境中受到限制的用户，还可以通过Anaconda创建独立环境来安装。
+
+Google还提供了三个发布渠道：每周二发布的预览版、经过完整测试的稳定版，以及每日更新的夜间构建版，满足不同用户的需求。
+
+## 重要更新：向Antigravity CLI过渡
+
+需要注意的是，Gemini CLI已经不再是Gemini模型的最终形态。2026年6月18日，Google宣布将免费用户和Google One用户的服务迁移至Antigravity CLI。对于使用最新Gemini 4 Argon模型的用户，官方建议直接转向Antigravity CLI，以获得更优化的编程体验。
+
+这并不意味着Gemini CLI失去了价值。作为开源项目，它为社区提供了一个绝佳的学习样本，展示了如何将强大的AI模型集成到开发者工作流中。MCP生态的引入，也让它成为了探索AI Agent未来形态的重要参考。
+
+## 为什么值得了解
+
+无论你是否直接使用Gemini CLI，这个项目的理念都值得每一位开发者关注。它代表了AI辅助开发的一个重要方向：从"对话式"走向"操作式"。AI不再只是回答问题，而是真正走进你的工具链，成为开发环境的一部分。
+
+开源的力量在于社区共创。如果你正在寻找将Gemini能力融入日常开发的灵感，或者对AI Agent的终端集成方案感兴趣，这个仓库会是一个很好的起点。
